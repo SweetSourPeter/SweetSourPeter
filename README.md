@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://sweetsourpeter.github.io/">
-    <img src="https://github.com/SweetSourPeter/SweetSourPeter/assets/49703445/d3f78a5b-2d4b-420c-8f3a-cb34ead19dcd" alt="yaopuwang" style="max-width:100%;height:auto;">
+    <img src="https://github.com/SweetSourPeter/SweetSourPeter/assets/49703445/aaaaf373-dd7d-4b87-a8fa-d3cd799b05a2" alt="yaopuwang" style="max-width:100%;height:auto;">
   </a>
 </p>
 
