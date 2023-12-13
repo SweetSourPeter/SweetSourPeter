@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yaopu Wang, also known as Peter</h1>
-<h3 align="center">I am a skilled software developer, graduateed from Upenn & Boston U</h3>
+<h3 align="center">I am a skilled software developer, graduated from <a href="https://www.upenn.edu/" target="_blank">University of Pennsylvania</a> & <a href="https://www.bu.edu/" target="_blank">Boston University</a></h3>
 
 - 🌱 I’m currently learning **Spring Boot**
 
